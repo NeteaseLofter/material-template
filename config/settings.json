@@ -1,6 +1,6 @@
 {
   "screenshot": "",
-  "type": "block",
+  "type": "page",
   "schema": {
     "type": "object",
     "properties": {}
